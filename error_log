@@ -1,0 +1,7 @@
+[07-Feb-2023 22:54:52 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.24. in /home/vdevsonl/public_html/panel/vendor/composer/platform_check.php on line 24
+[09-Feb-2023 04:24:59 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Projects because the name is already in use in /home/vdevsonl/public_html/panel/app/Http/Controllers/Projects.php on line 7
+[09-Feb-2023 04:31:02 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Project, because the name is already in use in /home/vdevsonl/public_html/panel/app/Http/Controllers/Projects.php on line 6
+[10-Feb-2023 07:03:44 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/vdevsonl/public_html/panel/app/Http/Controllers/proekti.php on line 8
+[11-Feb-2023 21:58:12 UTC] PHP Fatal error:  Cannot declare class Illuminate\Http\Request\LoginController, because the name is already in use in /home/vdevsonl/public_html/panel/app/Http/Controllers/Auth/LoginController.php on line 9
+[11-Feb-2023 21:58:37 UTC] PHP Fatal error:  Cannot declare class Illuminate\Http\Request\LoginController, because the name is already in use in /home/vdevsonl/public_html/panel/app/Http/Controllers/Auth/LoginController.php on line 9
+[12-Feb-2023 09:19:21 Europe/Sofia] PHP Fatal error:  Cannot declare class App\Voucher because the name is already in use in /home/vdevsonl/public_html/panel/app/Models/Voucher.php on line 8
